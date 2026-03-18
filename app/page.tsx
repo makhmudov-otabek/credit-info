@@ -14,7 +14,7 @@ export default function Home() {
       </div>
       <p className="text-2xl font-bold">Tezkor kredit markazi</p>
       <Link
-        href={"https://maps.app.goo.gl/8iqw5z2VvD4MU8xZ8"}
+        href={"https://credit-react.vercel.app/"}
         className="w-75 py-4 px-4 border rounded-md border-blue-300 shadow flex gap-2"
       >
         <Image alt="" src={WebsiteIcon} width={25} /> Biz haqimizda
